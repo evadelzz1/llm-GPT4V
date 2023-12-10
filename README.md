@@ -66,7 +66,7 @@ python 가상환경 deactivate
 Reference
 
     OpenAI API DALL-E 3, GPT-4 Vision & GPT-4 Turbo Tutorial (+ Code Examples)
-        * [Youtube](https://www.youtube.com/watch?v=_F9RSESOdDE)
+        * [![Youtube](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=_F9RSESOdDE)
         * [Github](https://github.com/krisograbek/openai-notebooks/blob/main/GPT4V-DALLE3-PG.ipynb)
         * File :
             app_01colab_GPT4V_DALLE3_PG.ipynb
