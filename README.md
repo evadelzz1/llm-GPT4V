@@ -102,19 +102,19 @@ Reference
         * File :
             app_51AnalyzeImages.py
 
-    # Generate Apps from Sketches or Screenshots with OpenAI GPT-4 Vision API (6 mins quick demo)
+    Generate Apps from Sketches or Screenshots with OpenAI GPT-4 Vision API (6 mins quick demo)
         * [Youtube] (https://www.youtube.com/watch?v=ZPe8isJWikQ)
         * File :
             app_52SketchToPrototype.py
 
-    # GPT 4 vision and speech code examples
+    GPT 4 vision and speech code examples
         * [Youtube] (https://www.youtube.com/watch?v=s54tfEkIXc0)
         * File :
             app_61narrating_video.py
             app_62website_description.py
             app_63website_comparison.py
 
-    # AI Football Commentator ⚽ GPT-4 Vision & TTS in Action
+    AI Football Commentator ⚽ GPT-4 Vision & TTS in Action
         * [Youtube] (https://www.youtube.com/watch?v=u56K4dL20gA)
         * [Source]  (https://mer.vin/2023/11/gpt-4-vision-adding-football-commentator-to-video/)
         * File :
