@@ -1,0 +1,50 @@
+{
+    "Invoice": {
+        "Header": {
+            "BusinessInfo": {
+                "Name": "Example Business Name or Business Owner",
+                "Address": "123 Example Business Address",
+                "City": "Boston",
+                "State": "MA",
+                "PostalCode": "02135"
+            },
+            "CustomerInfo": {
+                "Name": "Example Customer Name",
+                "Address": "456 Example Customer Address",
+                "City": "Boston",
+                "State": "MA",
+                "PostalCode": "02135"
+            },
+            "InvoiceNumber": "123456",
+            "InvoiceDate": "08/19/2020",
+            "DueDate": "09/19/2020"
+        },
+        "Items": [
+            {
+                "Description": "Example of service in industry",
+                "UnitPrice": 25.0,
+                "Quantity": 4,
+                "Amount": 100.0
+            },
+            {
+                "Description": "Example of product in industry",
+                "UnitPrice": 500.0,
+                "Quantity": 1,
+                "Amount": 500.0
+            },
+            {
+                "Description": "Example of discount in industry",
+                "UnitPrice": -100.0,
+                "Quantity": 1,
+                "Amount": -100.0
+            }
+        ],
+        "Summary": {
+            "Subtotal": 600.0,
+            "Total": 500.0,
+            "AmountPaid": 0.0,
+            "BalanceDue": 500.0
+        },
+        "Notes": "Provide a concise, professional description of the services, product, and discount listed above."
+    }
+}

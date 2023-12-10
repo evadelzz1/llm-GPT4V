@@ -1,0 +1,8 @@
+python-dotenv
+openai
+streamlit
+opencv-python
+selenium
+webdriver_manager
+moviepy
+IPython
